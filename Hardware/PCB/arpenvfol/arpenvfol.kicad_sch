@@ -386,12 +386,12 @@
   )
 
   (junction (at 62.23 182.88) (diameter 0) (color 0 0 0 0))
-  (junction (at 39.37 177.8) (diameter 0) (color 0 0 0 0))
   (junction (at 62.23 172.72) (diameter 0) (color 0 0 0 0))
-  (junction (at 87.63 172.72) (diameter 0) (color 0 0 0 0))
+  (junction (at 39.37 177.8) (diameter 0) (color 0 0 0 0))
   (junction (at 62.23 177.8) (diameter 0) (color 0 0 0 0))
-  (junction (at 87.63 182.88) (diameter 0) (color 0 0 0 0))
   (junction (at 118.11 177.8) (diameter 0) (color 0 0 0 0))
+  (junction (at 87.63 172.72) (diameter 0) (color 0 0 0 0))
+  (junction (at 87.63 182.88) (diameter 0) (color 0 0 0 0))
 
   (wire (pts (xy 39.37 177.8) (xy 39.37 180.34))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -1067,6 +1067,9 @@
     (path "/2194fe1e-a0ad-4b81-af13-2beaff438585/4513cd2f-9a5f-4aa5-8472-2a54fcd99567"
       (reference "#PWR036") (unit 1) (value "-12V") (footprint "")
     )
+    (path "/2194fe1e-a0ad-4b81-af13-2beaff438585/463c4f7b-70c9-4197-a7b5-c4ca49c67c3c"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00005f73fa30"
       (reference "C1") (unit 1) (value "10uF") (footprint "ao_tht:CP_Radial_D6.3mm_P2.50mm")
     )
@@ -1094,9 +1097,6 @@
     (path "/2194fe1e-a0ad-4b81-af13-2beaff438585/2524fbd7-0378-4605-a672-679535343480"
       (reference "C9") (unit 1) (value "220uF") (footprint "ao_tht:CP_Radial_D6.3mm_P2.50mm")
     )
-    (path "/2194fe1e-a0ad-4b81-af13-2beaff438585/327921f8-7717-4798-99dd-c371a4441293"
-      (reference "C10") (unit 1) (value "10uF") (footprint "ao_tht:CP_Radial_D6.3mm_P2.50mm")
-    )
     (path "/2194fe1e-a0ad-4b81-af13-2beaff438585/481b0ffa-255a-4a96-a1a1-acd9df7ea45c"
       (reference "C11") (unit 1) (value "20pF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
@@ -1116,7 +1116,7 @@
       (reference "C16") (unit 1) (value "10pF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
     (path "/2194fe1e-a0ad-4b81-af13-2beaff438585/17adf50b-ced7-4c26-9114-7737681afcbc"
-      (reference "C17") (unit 1) (value "1uF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
+      (reference "C17") (unit 1) (value "2nF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
     (path "/2194fe1e-a0ad-4b81-af13-2beaff438585/115f2dc5-07cd-493a-bf9a-94e3169cc699"
       (reference "C18") (unit 1) (value "47pF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
@@ -1145,9 +1145,6 @@
     (path "/00000000-0000-0000-0000-00006074df58"
       (reference "J1") (unit 1) (value "Synth_power_2x5") (footprint "ao_tht:Power_Header")
     )
-    (path "/2194fe1e-a0ad-4b81-af13-2beaff438585/180e2a20-0236-4269-8f0d-45f3eb7edaf9"
-      (reference "J2") (unit 1) (value "AudioJack2") (footprint "")
-    )
     (path "/2194fe1e-a0ad-4b81-af13-2beaff438585/6b38a2cb-3ee6-43f1-b68d-89417f55e93d"
       (reference "J3") (unit 1) (value "AudioJack2_SwitchT") (footprint "")
     )
@@ -1159,6 +1156,12 @@
     )
     (path "/2194fe1e-a0ad-4b81-af13-2beaff438585/eec84aeb-2a32-44e6-9525-ebe9b543a96d"
       (reference "J6") (unit 1) (value "AudioJack2") (footprint "")
+    )
+    (path "/2194fe1e-a0ad-4b81-af13-2beaff438585/73a7615d-c086-4c71-bc1d-5d26c31e8c5e"
+      (reference "J?") (unit 1) (value "AudioJack2_SwitchT") (footprint "")
+    )
+    (path "/2194fe1e-a0ad-4b81-af13-2beaff438585/06fa7d00-15d4-42cd-90ec-c65da7c6e9b0"
+      (reference "MK?") (unit 1) (value "Microphone_Condenser") (footprint "")
     )
     (path "/2194fe1e-a0ad-4b81-af13-2beaff438585/29135dbf-e766-4bd2-b05d-f14e8b64df65"
       (reference "Q1") (unit 1) (value "2N3904") (footprint "ao_tht:TO-92_Inline_Wide")
