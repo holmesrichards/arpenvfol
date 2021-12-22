@@ -1091,7 +1091,7 @@
       (reference "C2") (unit 1) (value "10uF") (footprint "ao_tht:CP_Radial_D6.3mm_P2.50mm")
     )
     (path "/2194fe1e-a0ad-4b81-af13-2beaff438585/225c0307-b622-47f9-a708-c2a7f3f9e547"
-      (reference "C3") (unit 1) (value "10uF") (footprint "ao_tht:CP_Radial_D6.3mm_P2.50mm")
+      (reference "C3") (unit 1) (value "10uF") (footprint "ao_tht:C_Radial_D8.0mm_H11.5mm_P3.50mm")
     )
     (path "/2194fe1e-a0ad-4b81-af13-2beaff438585/08c94aa8-398d-4f78-97c7-dc6a1214cd47"
       (reference "C4") (unit 1) (value "100uF") (footprint "ao_tht:CP_Radial_D6.3mm_P2.50mm")
@@ -1121,7 +1121,7 @@
       (reference "C13") (unit 1) (value "100nF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
     (path "/2194fe1e-a0ad-4b81-af13-2beaff438585/a9769c62-8e8a-4079-90d3-2d8c0ddedda8"
-      (reference "C14") (unit 1) (value "10uF") (footprint "ao_tht:CP_Radial_D6.3mm_P2.50mm")
+      (reference "C14") (unit 1) (value "10uF") (footprint "ao_tht:C_Radial_D8.0mm_H11.5mm_P3.50mm")
     )
     (path "/2194fe1e-a0ad-4b81-af13-2beaff438585/8c4afc13-6c6a-4214-b59a-3441dee091ed"
       (reference "C15") (unit 1) (value "10nF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
