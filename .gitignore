@@ -31,9 +31,6 @@ fp-info-cache
 
 # Additional ignored
 
-# *cache.lib files, bad idea? But I haven't regretted it yet.
-*cache*
-
 # KiCad backups folders
 *-backups
 

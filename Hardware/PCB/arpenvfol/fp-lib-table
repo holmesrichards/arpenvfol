@@ -1,2 +1,3 @@
 (fp_lib_table
+  (lib (name "arpenvfol")(type "KiCad")(uri "${KIPRJMOD}/arpenvfol.pretty")(options "")(descr ""))
 )

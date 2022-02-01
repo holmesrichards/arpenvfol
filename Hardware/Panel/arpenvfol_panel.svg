@@ -16,6 +16,14 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
+    <linearGradient
+       id="linearGradient4905"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#666666;stop-opacity:1;"
+         offset="0"
+         id="stop4903" />
+    </linearGradient>
     <inkscape:path-effect
        effect="bspline"
        id="path-effect28388"
@@ -1244,8 +1252,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.84999999"
-     inkscape:cx="308.2353"
-     inkscape:cy="572.35295"
+     inkscape:cx="65.882354"
+     inkscape:cy="632.35295"
      inkscape:document-units="mm"
      inkscape:current-layer="layer16"
      showgrid="false"
@@ -1258,7 +1266,7 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-midpoints="true"
-     inkscape:snap-others="true"
+     inkscape:snap-others="false"
      inkscape:snap-grids="true"
      inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
@@ -1266,12 +1274,12 @@
      inkscape:snap-text-baseline="false"
      inkscape:measure-start="236.22,816.378"
      inkscape:measure-end="236.22,687.874"
-     inkscape:object-paths="true"
+     inkscape:object-paths="false"
      inkscape:document-rotation="0"
-     inkscape:snap-bbox="true"
+     inkscape:snap-bbox="false"
      inkscape:snap-bbox-edge-midpoints="false"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:object-nodes="false"
      inkscape:pagecheckerboard="0"
      inkscape:snap-intersection-paths="false"
      inkscape:snap-global="true"
@@ -1385,9 +1393,13 @@
        orientation="0,-1"
        id="guide11312" />
     <sodipodi:guide
-       position="2.9527559,5.291338"
-       orientation="0.70710678,-0.70710678"
-       id="guide2480" />
+       position="2.007874,2.5748031"
+       orientation="0,-1"
+       id="guide5236" />
+    <sodipodi:guide
+       position="3.4448772,4.1102362"
+       orientation="-0.70710678,-0.70710678"
+       id="guide15946" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -1412,9 +1424,9 @@
        width="1.968504"
        id="rect2111-6"
        style="display:inline;opacity:1;vector-effect:none;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png" />
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png" />
   </g>
   <g
      inkscape:label="Standards"
@@ -3393,7 +3405,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Behind panel"
-     style="display:inline">
+     style="display:none">
     <path
        style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -7.2007859,2.2480381 h 0.622047 v 0.6220475 h -0.456693 l -0.165354,-0.1574803 z"
@@ -3930,18 +3942,28 @@
      style="display:inline">
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       d="m 2.9527559,4.8031495 0,0.9055125 -0.492126,0.492126 8e-7,2.6574826"
-       id="path8629"
-       sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
+       d="M 2.4606307,6.889766 V 7.8740184 H 3.4448783 V 6.889766 L 2.9527569,6.3976445 v -1.5944935 0 0"
+       id="path15981" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="2.4606295"
+       y="8.3464575"
+       id="text10956"
        inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-ydpi="101.46577"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"><tspan
+         sodipodi:role="line"
+         id="tspan10954"
+         x="2.4606295"
+         y="8.3464575"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">MIC IN</tspan></text>
     <rect
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0208333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.993004;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        id="rect8779"
        width="0.43307099"
        height="0.15748031"
-       x="2.2440953"
+       x="3.2283473"
        y="7.2047243"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
        inkscape:export-xdpi="101.46577"
@@ -3951,7 +3973,7 @@
        id="rect8653"
        width="0.43307099"
        height="0.15748031"
-       x="2.2440953"
+       x="3.2283473"
        y="8.1889791"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
        inkscape:export-xdpi="101.46577"
@@ -3959,10 +3981,10 @@
     <rect
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0208333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.993004;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        id="rect2624"
-       width="0.90551215"
-       height="1.9685045"
-       x="2.9921272"
-       y="7.4409471"
+       width="1.8897668"
+       height="0.98425472"
+       x="2.0078726"
+       y="8.4251966"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577" />
@@ -5443,16 +5465,16 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="2.4606295"
-       y="9.3307095"
+       x="3.4448814"
+       y="7.3622055"
        id="text2543"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"><tspan
          sodipodi:role="line"
          id="tspan2541"
-         x="2.4606295"
-         y="9.3307095"
+         x="3.4448814"
+         y="7.3622055"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">SYNTH IN</tspan></text>
     <circle
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -5526,22 +5548,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0.6;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="3.4448814"
-       y="8.3464575"
+       x="2.4606295"
+       y="9.3307095"
        id="text19214"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"><tspan
          sodipodi:role="line"
-         id="tspan19212"
-         x="3.4448814"
-         y="8.3464575"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0104167">PREAMP</tspan><tspan
-         sodipodi:role="line"
-         x="3.4448814"
-         y="8.5464573"
+         x="2.4606295"
+         y="9.3307095"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0104167"
-         id="tspan5172">OUT</tspan></text>
+         id="tspan5172">PRE OUT</tspan></text>
     <path
        style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
        d="m -9.9409448,7.0866052 c 0,0 0.1181103,0 0.1181103,0"
@@ -5614,7 +5631,7 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="2.4606295"
+       x="3.4448814"
        y="8.3464575"
        id="text4318"
        inkscape:export-xdpi="101.46577"
@@ -5622,32 +5639,18 @@
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"><tspan
          sodipodi:role="line"
          id="tspan4316"
-         x="2.4606295"
+         x="3.4448814"
          y="8.3464575"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">INST IN</tspan></text>
     <circle
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle10952"
-       cx="2.4606295"
+       cx="3.4448814"
        cy="6.8897743"
        r="0.27559054"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="2.4606295"
-       y="7.3622055"
-       id="text10956"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"><tspan
-         sodipodi:role="line"
-         id="tspan10954"
-         x="2.4606295"
-         y="7.3622055"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">MIC IN</tspan></text>
     <circle
        cy="4.8031483"
        cx="2.9527607"
@@ -5910,25 +5913,25 @@
        cx="2.4606309"
        cy="8.8582735"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 2.4606269,8.7598481 V 8.9566986"
        id="path2553"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.5590519,8.8582733 h -0.19685"
        id="path2555"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <g
        id="g2461"
        style="display:inline"
@@ -6000,25 +6003,25 @@
        cx="3.4448814"
        cy="8.8582783"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 3.4448773,8.7598526 V 8.9567031"
        id="path3292"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.5433023,8.8582778 h -0.19685"
        id="path3294"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <g
        id="g6665"
        transform="translate(3.5433079,5.0433001)"
@@ -6113,9 +6116,9 @@
     <g
        id="g2598"
        transform="translate(0.00787418)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513">
       <circle
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2104-6-0"
@@ -6142,9 +6145,9 @@
        id="g2598-9"
        transform="translate(-1.6141731)"
        style="display:inline"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513">
       <circle
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2104-6-0-6"
@@ -6171,9 +6174,9 @@
        id="g2598-0"
        transform="translate(0.00787418,7.6377954)"
        style="display:inline"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513">
       <circle
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2104-6-0-3"
@@ -6200,9 +6203,9 @@
        id="g2598-4"
        transform="translate(-1.6141731,7.6377951)"
        style="display:inline"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513">
       <circle
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2104-6-0-4"
@@ -6299,25 +6302,25 @@
        cx="3.4448814"
        cy="7.8740263"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.4448773,7.7756011 v 0.19685"
        id="path19218"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.5433023,7.8740261 h -0.19685"
        id="path19220"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <g
        id="g3455-5"
        style="display:inline"
@@ -6460,57 +6463,57 @@
        cx="2.4606295"
        cy="7.8740263"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.4606253,7.7756011 v 0.19685"
        id="path4322"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.5590503,7.8740261 h -0.19685"
        id="path4324"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle10964"
-       cx="2.4606295"
+       cx="3.4448814"
        cy="6.8897743"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 2.4606253,6.7913491 v 0.19685"
+       d="m 3.4448773,6.7913491 v 0.19685"
        id="path10966"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 2.5590503,6.8897741 h -0.19685"
+       d="m 3.5433023,6.8897741 h -0.19685"
        id="path10968"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <g
        id="g2590"
        style="display:inline"
        transform="translate(9.8425194,-0.31496798)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513">
       <circle
          r="0.13779527"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6528,6 +6531,31 @@
          id="path2588"
          inkscape:connector-curvature="0" />
     </g>
+    <circle
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2459"
+       cx="2.4606252"
+       cy="6.8897638"
+       r="0.19685039"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 2.4606211,6.7913386 v 0.19685"
+       id="path2461"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 2.5590461,6.8897636 h -0.19685"
+       id="path2463"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7560,7 +7588,7 @@
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       transform="matrix(1.000002,0,0,1.000002,3.0154213,0.91957973)"
+       transform="matrix(1.000002,0,0,1.000002,3.9996733,0.91957973)"
        style="display:inline"
        id="g10989"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel.png"
@@ -7635,6 +7663,12 @@
          d="M 2.3622056,6.4724214 V 6.6692718"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.0312499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
+    <circle
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0208333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="path2891"
+       cx="2.4606264"
+       cy="6.8897657"
+       r="0.19094488" />
   </g>
   <g
      inkscape:groupmode="layer"
