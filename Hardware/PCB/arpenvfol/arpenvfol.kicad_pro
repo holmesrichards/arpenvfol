@@ -463,7 +463,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "../../../Docs/",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
@@ -473,10 +473,6 @@
     [
       "1fce46f5-2003-4c7e-915f-b9b7dfc679d7",
       ""
-    ],
-    [
-      "2194fe1e-a0ad-4b81-af13-2beaff438585",
-      "Main PCB"
     ]
   ],
   "text_variables": {}
