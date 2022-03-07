@@ -16,6 +16,50 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3390"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3386"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3107"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2846"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
     <linearGradient
        id="linearGradient4905"
        inkscape:swatch="solid">
@@ -1252,8 +1296,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.84999999"
-     inkscape:cx="55.294118"
-     inkscape:cy="556.47059"
+     inkscape:cx="-111.76471"
+     inkscape:cy="576.4706"
      inkscape:document-units="mm"
      inkscape:current-layer="layer16"
      showgrid="false"
@@ -1289,8 +1333,8 @@
        type="xygrid"
        id="grid10120"
        units="mm"
-       spacingx="0.039370079"
-       spacingy="0.019685039"
+       spacingx="0.0019685039"
+       spacingy="0.0019685039"
        empspacing="5"
        originx="0"
        originy="0" />
@@ -5692,6 +5736,15 @@
          x="2.9527559"
          y="5.7086611"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">INPUT LEVEL</tspan></text>
+    <circle
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00208333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2459"
+       cx="2.4606252"
+       cy="6.8897638"
+       r="0.19685039"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -6552,37 +6605,55 @@
          id="path2588"
          inkscape:connector-curvature="0" />
     </g>
-    <circle
-       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle2459"
-       cx="2.4606252"
-       cy="6.8897638"
-       r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
-       inkscape:export-xdpi="999.94513"
-       inkscape:export-ydpi="999.94513" />
-    <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 2.4606211,6.7913386 v 0.19685"
-       id="path2461"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
-       inkscape:export-xdpi="999.94513"
-       inkscape:export-ydpi="999.94513" />
-    <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 2.5590461,6.8897636 h -0.19685"
-       id="path2463"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Envelope follower/Kosmo version/Images/arpenvfol_panel_holes.png"
-       inkscape:export-xdpi="999.94513"
-       inkscape:export-ydpi="999.94513" />
+    <g
+       id="g3374">
+      <circle
+         style="font-variation-settings:normal;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="path2639"
+         cx="2.4114172"
+         cy="6.968504"
+         r="0.01476378" />
+      <path
+         style="font-variation-settings:normal;display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m 2.4114181,6.9586635 c 0,0 0,0.019685 0,0.019685"
+         id="path2844"
+         inkscape:path-effect="#path-effect2846"
+         inkscape:original-d="m 2.4114181,6.9586635 v 0.019685" />
+      <path
+         style="font-variation-settings:normal;display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m 2.4015756,6.968506 c 0,0 0.019685,0 0.019685,0"
+         id="path3103"
+         inkscape:path-effect="#path-effect3107"
+         inkscape:original-d="m 2.4015756,6.968506 h 0.019685" />
+    </g>
+    <g
+       id="g3382"
+       transform="translate(0.0984252)">
+      <circle
+         style="font-variation-settings:normal;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="circle3376"
+         cx="2.4114172"
+         cy="6.968504"
+         r="0.01476378" />
+      <path
+         style="font-variation-settings:normal;display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m 2.4114181,6.9586635 c 0,0 0,0.019685 0,0.019685"
+         id="path3378"
+         inkscape:path-effect="#path-effect3386"
+         inkscape:original-d="m 2.4114181,6.9586635 v 0.019685" />
+      <path
+         style="font-variation-settings:normal;display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m 2.4015756,6.968506 c 0,0 0.019685,0 0.019685,0"
+         id="path3380"
+         inkscape:path-effect="#path-effect3390"
+         inkscape:original-d="m 2.4015756,6.968506 h 0.019685" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="Panel Hardware"
-     style="display:inline">
+     style="display:none">
     <g
        id="g3230-5"
        style="display:inline"

@@ -46,3 +46,8 @@ fp-info-cache
 
 # Note to myself
 SETUP.md
+
+# LTSpice
+Simulations/*.log
+Simulations/*.raw
+Simulations/*.txt
