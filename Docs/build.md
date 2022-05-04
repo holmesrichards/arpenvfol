@@ -18,3 +18,7 @@ There's almost nothing to note about the build; it's very standard aside from on
 As shown, pins 2 and 3 of the gain pot are connected together, with the other two pins connected to the gain Molex header on the PCB. The other pot has all three pins connected to the PCB. Labels on the PCB indicate pin 1 (counter clockwise, CCW, as seen from the front of the panel), 2 (wiper, W), and 3 (clockwise, CCW). Note wire colors:
 
 ![back_view](../Images/back_view.jpg)
+
+## Adjust to taste
+
+Modules that interface to external signals may be the most subjective designs of all. You may want larger or smaller gains. To increase the gain of the preamplifier decrease the value of R23 (or increase the value of the pot). To increase the output signal increase the value of R24 (or decrease the value of R22).
