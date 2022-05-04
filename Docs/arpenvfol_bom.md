@@ -1,6 +1,6 @@
 # arpenvfol.kicad_sch BOM
 
-Tue 03 May 2022 05:33:49 PM EDT
+Wed 04 May 2022 04:19:42 PM EDT
 
 Generated from schematic by Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1
 
@@ -32,7 +32,7 @@ Generated from schematic by Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1
 | J11, J12 | 2 | AudioJack2 | 1/4" jack, vertical, TR | Tayda | A-1121 |
 | MK1 | 1 | Microphone_Condenser | Condenser microphone | Tayda | A-5010 |
 | Q1, Q2 | 2 | BC549 | 0.1A Ic, 30V Vce, Small Signal NPN Transistor, TO-92 | Tayda | A-111 |
-| R1, R3, R11, R12, R23, R27, R28 | 7 | 1k | Resistor, 1/4 W metal film | Tayda |  |
+| R1, R3, R11, R12, R27, R28 | 6 | 1k | Resistor, 1/4 W metal film | Tayda |  |
 | R2 | 1 | 82k | Resistor, 1/4 W metal film | Tayda |  |
 | R4 | 1 | 39k | Resistor, 1/4 W metal film | Tayda |  |
 | R5 | 1 | 22k | Resistor, 1/4 W metal film | Tayda |  |
@@ -45,8 +45,10 @@ Generated from schematic by Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1
 | R19 | 1 | 270k | Resistor, 1/4 W metal film | Tayda |  |
 | R20 | 1 | 150k | Resistor, 1/4 W metal film | Tayda |  |
 | R22 | 1 | 1.5M | Resistor, 1/4 W metal film | Tayda |  |
-| R24 | 1 | 3M | Resistor, 1/4 W metal film | Tayda |  |
+| R23 | 1 | 470R | Resistor, 1/4 W metal film | Tayda |  |
+| R24 | 1 | 4.7M | Resistor, 1/4 W metal film | Tayda |  |
 | RV1 | 1 | B10k | Linear potentiometer, panel mount | Tayda | A-1982 |
 | RV2 | 1 | B100k | Linear potentiometer, panel mount | Tayda | A-1984 |
 | U1 | 1 | TL074 | Quad operational amplifier, DIP-14 | Tayda | A-1138 |
+| | 1 | | 14 pin DIP socket | | |
     
