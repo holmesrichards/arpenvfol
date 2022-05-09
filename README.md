@@ -26,6 +26,7 @@ This module isn't really a plug and play kind of thing. The output levels you ge
 * PCB layout: [front](Docs/_layout_front.pdf), [back](Docs/_layout_back.pdf)
 * [BOM](Docs/arpenvfol_bom.md)
 * [Build notes](Docs/build.md)
+* [Blog post](https://analogoutputblog.wordpress.com/2022/05/04/arp-2600-based-envelope-follower/)
 
 ## GitHub repository
 
