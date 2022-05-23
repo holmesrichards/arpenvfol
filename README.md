@@ -11,7 +11,7 @@ If nothing’s plugged into the synth input it uses the output of the instrument
 This module isn't really a plug and play kind of thing. The output levels you get depend not only on the amplitude of the input signal but the waveform — square waves give bigger outputs than ramp waves, for instance. With an external signal source you will want to use the gain knob to get the preamp output up to around 10 Vpp, and then use the signal level knob to get the output to the right level. It's probably a good idea to use a scope to check your settings.
 
 ## Current draw
-? mA +12 V, ? mA -12 V
+11.3 mA +12 V, 7.7 mA -12 V
 
 
 ## Photos
